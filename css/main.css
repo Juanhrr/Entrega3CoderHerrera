@@ -1,0 +1,45 @@
+    
+    #botonera{
+        background-color:pink ;
+    }
+
+        #botonera ul il a{
+            color: black;
+            font-size: 1.2em;
+            /*Subrayado animado*/
+            background-image: linear-gradient(current);
+            background-position: 0% 100%;
+            background-repeat: no-repeat;
+            background-size: 0% 2px;
+            transition: background-size .3s;
+        }
+
+        #botonera ul li a:hover{
+            color: black;
+            font-weight: 600;
+            /*Subrsayado animado*/
+            background-size: 100% 2px;
+        } 
+
+        #botonera img{
+            width: 150px;
+        }
+.btn-Turno{
+    background-color: pink;
+    color: black;
+}
+
+    .btn-Turno:hover{
+        background-color: rgb(255, 106, 223);
+    }
+    footer{
+        background-color: pink;
+        text-align: center;
+        padding: 4px 30px;
+    }
+
+    /* contacto.html */
+
+.Ctoner{
+    display: flex;
+}
