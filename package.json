@@ -12,5 +12,13 @@
   "license": "ISC",
   "dependencies": {
     "sass": "^1.57.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juanhrr/Entrega3CoderHerrera.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Juanhrr/Entrega3CoderHerrera/issues"
+  },
+  "homepage": "https://github.com/Juanhrr/Entrega3CoderHerrera#readme"
 }
