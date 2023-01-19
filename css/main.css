@@ -115,3 +115,7 @@ display: flex;
   #botonera img{
       width: 150px;
   }
+
+  .btn-Turno:hover{
+    background-color: rgb(255, 106, 223);
+}
